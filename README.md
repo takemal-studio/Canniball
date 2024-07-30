@@ -9,4 +9,4 @@ https://takemal-studio.github.io/Canniball/
 
 ## Play Image
 
-![playingGif](Movie.gif)
+![playingGif](Movie2.gif)
